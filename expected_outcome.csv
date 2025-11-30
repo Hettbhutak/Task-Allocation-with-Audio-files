@@ -1,0 +1,6 @@
+#,Task Description,Assigned To,Deadline,Priority,Dependencies (Optional),Reason (Optional)
+1,Fix critical login bug,Sakshi,Tomorrow evening,Critical / High,—,Frontend task, blocking users
+2,Optimize database performance,Mohit,End of this week,High,—,Backend expertise
+3,Update API documentation,Mohit,Friday,High,—,Backend-related, before release
+4,Design new onboarding screens,Arjun,Next Monday,Medium,—,UI/UX task, relevant experience
+5,Write unit tests for payment module,Lata,Wednesday,Medium,Depends on Task #1,QA expertise, testing task

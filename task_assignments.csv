@@ -1,0 +1,6 @@
+Task Number,Description,Assigned To,Deadline,Priority,Dependencies,Reasoning
+1,Fix the critical login bug,Sakshi,tomorrow evening,Critical,,Explicitly mentioned in task: 'Sakshi'
+2,Optimize database performance,Mohit,end of this week,High,,Explicitly mentioned in task: 'Mohit'
+3,Update the API documentation,Mohit,friday,High,,"Matched skills: sql, database, performance optimization, apis; Task domains: backend, documentation; Role: Backend Engineer"
+4,Design the new onboarding screens,Arjun,next Monday,Medium,,"Matched skills: mobile design, wireframes, figma, user flows; Task domains: frontend, design; Role: UI/UX Designer"
+5,Write unit tests for the payment module,Lata,wednesday,Medium,Depends on Task #1,"Matched skills: automation, testing, quality assurance, integration tests, unit tests; Task domains: frontend, qa; Role: QA Engineer"
